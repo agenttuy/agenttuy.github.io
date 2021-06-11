@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Hey, I think you stole my dog - John Wick
-title: Rohit Jain
+home_text: “Breathing in, there is only the present moment. Breathing out, it is a wonderful moment.” ― Thich Nhat Hanh
+title: Sina T.
 ---
